@@ -1,4 +1,5 @@
 ## Hi there 👋
+https://img.shields.io/github/watchers/denizinec/denizinec
 
 <!--
 **denizinec/denizinec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
