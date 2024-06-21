@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://img.shields.io/github/watchers/denizinec/denizinec
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=denizinec&label=Profile%20views&color=0e75b6&style=flat" alt="denizinec" /> </p>
 
 <!--
 **denizinec/denizinec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
