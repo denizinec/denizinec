@@ -1,8 +1,6 @@
 # Hi it's me Deniz!
 
-💫I'm currently working with Java Spring. 🌱 <br> 💻 I’m currently learning AWS, cloud and microservices. <br>💬 Ask me anything related! <br>
-
-
+💫I'm currently working with Java Spring. 🌱 <br> 💻 I’m currently learning AWS, cloud and microservices. <br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/catzumiuv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denizinec) 
